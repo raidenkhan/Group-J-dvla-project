@@ -50,6 +50,7 @@ cout<<endl;
 switch(input){
 case '1':
     registerDriver();
+    cout<<"print registed driver successfullly"<<endl;
     break;
 case '2':
     handleExpirey();
